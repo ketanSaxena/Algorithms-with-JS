@@ -1,2 +1,2 @@
 # Algorithms-with-JS
-Implemention of Various Seraching and Sorting Algorithms in JS
+Implemention of Various Searching and Sorting Algorithms in JS
